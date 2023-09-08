@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints the phrase "Programming is like building a multilingual puzzle
- * return: return o0 if exit
+ * Return: return o0 if exit
  */
 
 int main(void)
